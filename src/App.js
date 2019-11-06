@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <UserInput />
         <ConnectedUsers />
-      </div>
+      </div>  
     );
   }
 }
